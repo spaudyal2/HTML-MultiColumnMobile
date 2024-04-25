@@ -1,0 +1,95 @@
+body {
+    background-color: #2B2D42;
+	color: #FFF;
+	font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: 600;
+	margin: 10px auto ;
+	text-align: center;
+	
+}
+
+header {
+    margin: 10px auto;
+	padding: 10px 0;
+    width: 90%;
+}
+
+header img {
+	border-radius: 5px;
+	display: block;
+	margin: 20px auto;
+	width: 100%;
+}
+
+header p { 
+	font-size: 12.5px;
+	font-weight: 300;
+	line-height: 1.5;
+	padding: 5px 0;
+	
+}
+
+h2, h3, main p {
+	text-align: left;
+}
+
+h2 {
+	font-size: 20px;
+	border-bottom: 3px solid;
+	padding-bottom: 2px ;
+	margin: 0px auto;
+	width: 90%;
+}
+
+h3{
+	font-size: 14px;
+	margin: 10px auto 0px;
+}
+
+main p {
+	font-size: 11px;
+	margin: 5px auto;
+}
+
+.apps,
+.salads,
+.mains {
+	display: grid;
+	gap: 15px;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin: 0px auto 30px auto;
+	padding: 0 0 20px;
+	width: 90%;
+}
+
+img, main img {
+	display: block;
+}
+
+img {
+	margin:20px, auto;
+	width: 32%;
+}
+
+main img {
+	border-radius: 5px;
+	margin: 15px auto 10px;
+	width: 100%;
+}
+
+button {
+	background-color: #EF233C;
+	border: none;
+	color: #FFF;
+	font-family:'Rubik', sans-serif;
+	font-size: 10px;
+	font-weight: 600;
+	padding: 2px 0 0;
+	width: 70%;
+}
+
+

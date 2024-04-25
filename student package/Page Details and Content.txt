@@ -1,0 +1,38 @@
+--Page Details--
+
+Use assignment-2-example-W23.jpg, images provided and the details/content below to develop the web page.
+
+Page Background Colour: #2B2D42
+Body Colour: #FFF
+Font: Rubik (300 and 600) (Google Fonts)
+Button Colour: #EF233C
+
+--Introduction--
+
+Sally's Eatery
+        
+Enjoy the convenience of ordering your favorite meals anytime, anywhere. Browse our menu, customize your order, and pay securely all from the comfort of your device. Say goodbye to long wait times and hello to delicious food at your fingertips. Try our app today and experience the ultimate dining convenience.
+
+--Menu Items--
+
+Appetizers
+
+Quiche $7.99
+Puffs $6.99
+Bruschetta $4.99
+
+Salads
+
+Mixed $6.99
+Seafood $7.99
+Mixed Bean $4.99
+
+
+Mains
+
+Chicken Mix $7.99
+Chick n' Veg $6.99
+Omelette $4.99
+Egg Sandwich $5.99
+Seafood Mix $7.99
+Shrimp Pasta $9.99
